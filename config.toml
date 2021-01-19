@@ -108,7 +108,7 @@ home = "Home"
 description = "This is meta description"
 author = "chrisconnellydotdev"
 # snipcart public api key
-snipcartAPI = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+snipcartAPI = "NDVkMjE0Y2QtMmZlOC00NGY2LTkxYzAtZjkwMzk1NDg3NTkzNjM3NDY2OTI3OTA0NDIyMTQz"
 currency = "$"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"

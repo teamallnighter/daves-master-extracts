@@ -3,13 +3,13 @@ about:
   enable : true
   aboutItem:
     # about item loop
-    - title : "Our Mission"
+    - title : "The Mission"
       image : "images/about/about-1.jpg"
       content : "Praesent blandit dolorhon quam. In vemi sit amet augue congue elementum. Morbi in ipsum sit amet pede
             facilisis laoreet."
             
     # about item loop
-    - title : "Our Vission"
+    - title : "The Vission"
       image : "images/about/about-3.jpg"
       content : "Lights together to you’re together. You’ll. Form. Moving created one. Darkness whales fourth from own
             moved."
@@ -25,7 +25,7 @@ about:
 team:
   enable : true
   title : "Team Members"
-  subtitle : "Dedicated team behind the scene"
+  subtitle : "Dedicated team behind the scenes"
   teamMember:
     # team member loop
     - name : "Jonathon Andrew"
