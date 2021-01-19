@@ -3,30 +3,30 @@ slider:
   enable : true
   sliderItem:
     # slider item loop
-    - bgImage : "images/slider/slideshow1-1.jpg"
-      subtitle : "Winter Collection Sale"
-      title : " **70% off** to everything"
+    - bgImage : "images/slider/slideshow2.jpg"
+      subtitle : "Shatter Sale"
+      title : " **30% off** All Shatter"
       button:
         enable : true
         label : "Shop Now"
         link : "shop"
         
     # slider item loop
-    - bgImage : "images/slider/slideshow1-2.jpg"
-      subtitle : "up to 70% off"
-      title : " **Classic** Style"
+    - bgImage : "images/slider/slideshow1.jpg"
+      subtitle : "Winter Budder"
+      title : "stay **WARM** this winter"
       button:
         enable : true
         label : "Shop Now"
         link : "shop"
         
     # slider item loop
-    - bgImage : "images/slider/slideshow1-3.jpg"
-      subtitle : "Trendy dress"
-      title : " **Winter** Collection"
+    - bgImage : "images/slider/slideshow3.jpg"
+      subtitle : "Sign up for our newsletter"
+      title : "get exclusive **DISCOUNTS**"
       button:
         enable : true
-        label : "Shop Now"
+        label : "Sign Up"
         link : "shop"
 
 
@@ -35,9 +35,9 @@ categories:
   enable : true
   category:
     # category loop
-    - title : "Stylish Leather watch"
-      image : "images/about/cat-1.jpg"
-      offer : "up to **50%** off"
+    - title : "Blueberry Budder Is Back!"
+      image : "images/products/bluebrybddr.png"
+      offer : "Order Now"
       link : "watch"
       
     # category loop
@@ -70,10 +70,10 @@ deal:
   content : "Hurry up! Limited time offer.Grab ot now!"
   
   # set timer
-  year: "2020"
-  month: "09"
-  day: "01"
-  hour: "01"
+  year: "2021"
+  month: "02"
+  day: "15"
+  hour: "02"
 
   # button
   button:
