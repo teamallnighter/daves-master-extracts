@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://dme-tester-2021.netlify.app"
 languageCode = "en-us"
 title = "Daves Master Extracts | Karma Cup Champion 2020"
 theme = "adrian-hugo"
