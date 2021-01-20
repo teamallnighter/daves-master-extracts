@@ -53,6 +53,22 @@
               {{ range $index, $element:= .Params.Categories }}{{ if eq $index 0 }}{{ . | title | humanize }}{{ else }}, {{ . | title | humanize }}{{ end }}{{ end }}
             </div>
             {{ end }}
+            {{ if .Params.Strain }}
+            <div class="product-category d-flex align-items-center">
+              <span class="font-weight-bold text-capitalize product-meta-title">Strain :</span>
+              {{ range $index, $element:= .Params.Strain }}{{ if eq $index 0 }}{{ . | title | humanize }}{{ else }}, {{ . | title | humanize }}{{ end }}{{ end }}
+            </div>
+            {{ end }}
+            {{ if .Params.Strength }}
+            <div class="product-category d-flex align-items-center">
+              <span class="font-weight-bold text-capitalize product-meta-title">Strength :</span>
+              {{ range $index, $element:= .Params.Strength }}{{ if eq $index 0 }}{{ . | title | humanize }}{{ else }}, {{ . | title | humanize }}{{ end }}{{ end }}
+            </div>
+            {{ end }}
+            </div>
+
+            {{/* 
+          
             {{ if .Params.Colors }}
             <div class="product-category d-flex align-items-center">
               <span class="font-weight-bold text-capitalize product-meta-title">Color :</span>
@@ -65,7 +81,9 @@
               {{ range $index, $element:= .Params.Sizes }}{{ $name:= replace . "[" " " }}{{ $name:= replace $name "]" "$" }}{{ if eq $index 0 }}{{ $name | title | upper }}{{ else }}, &nbsp; {{ $name | title | upper }}{{ end }}{{ end }}
             </div>
             {{ end }}
+           
             <h5 class="mt-4">[Varient can be select after add to cart]</h5>
+            */}}
             <button class="snipcart-add-item btn btn-main btn-small mt-5"
               data-item-id="{{ .Title | urlize }}__{{ .Params.Price }}"
               data-item-name="{{ .Title }}"

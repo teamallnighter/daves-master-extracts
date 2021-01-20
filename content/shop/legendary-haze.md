@@ -1,10 +1,10 @@
 ---
-title: "Purse"
+title: Legendary haze
 date: 2019-11-25T13:39:07+06:00
 draft: false
 
 # meta description
-description : "Hand bag for multi purpose use."
+description : "Amazing taste with blah blah blah"
 
 # page title background image
 bgImage : "images/backgrounds/header-bg.jpg"
@@ -12,29 +12,29 @@ bgImage : "images/backgrounds/header-bg.jpg"
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/products/bag-4.jpg"
+  - "images/products/legendary-haze.png"
 
 # product Price
-price: "98.00"
+price: "60.00"
 priceBefore: ""
 
 # categories
-categories : ["bag"]
+strain : ["Indica"]
 
 # colors 
-colors : ["red","black"]
+categories : ["shatter"]
 
 # sizes
-sizes : ["S"]
+strength : ["I Wanna Go Home"]
 
 # weight
-productWeight : "500 G"
+productWeight : "1G"
 
 # dimentions
 dimensions : "10 x 10 x 15 cm"
 
 # materials
-materials : "100% Leather"
+materials : "60% cotton, 40% polyester"
 ---
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.

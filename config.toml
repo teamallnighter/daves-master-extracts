@@ -14,8 +14,8 @@ disqusShortname = "daves-master-extracts" #get your shortname form : disqus.com
 ############################# Taxonomies ###########################
 [taxonomies]
   category = "categories"
-  color = "colors"
-  size = "sizes"
+  strain = "strains"
+  strength = "strength"
 
 ############################# Plugins ##############################
 [params.plugins]

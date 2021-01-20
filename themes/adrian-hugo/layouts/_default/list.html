@@ -71,14 +71,14 @@
           {{- end }}
         </section>
         <section class="widget widget-categories mb-5">
-          <h3 class="widget-title h4 mb-4">Colors</h3>
-          {{- if isset .Site.Taxonomies "colors" }}
-          {{- if not (eq (len .Site.Taxonomies.colors) 0) }}
+          <h3 class="widget-title h4 mb-4">Strains</h3>
+          {{- if isset .Site.Taxonomies "strain" }}
+          {{- if not (eq (len .Site.Taxonomies.strain) 0) }}
           <ul class="list-unstyled">
-            {{- range $name, $items := .Site.Taxonomies.colors }}
+            {{- range $name, $items := .Site.Taxonomies.strain }}
             <li>
               <a class="cat-item d-lg-flex justify-content-between text-dark"
-                href="{{ `colors/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | humanize }}<span>{{len $items}}</span></a>
+                href="{{ `strain/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | humanize }}<span>{{len $items}}</span></a>
             </li>
             {{ end }}
           </ul>
