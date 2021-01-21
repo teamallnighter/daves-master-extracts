@@ -298,3 +298,35 @@ textarea.form-control{
 		border-radius: 0;
 	}
 }
+
+
+.item-info{
+  background-color: #1b1b1b80;
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: 1px 2px 3px grey;
+  min-width: 15vw;
+}
+
+.mb-0{
+  color: white;
+}
+
+.mb-4{
+  color: red;
+}
+
+.read-more{
+  text-decoration: none;
+  color:white;
+}
+
+.text-white{
+  background-color: #0000007e;
+  padding: 6px 15px;
+  text-align: center;
+}
+
+.details-container{
+  padding: 0vh 10vw;
+}

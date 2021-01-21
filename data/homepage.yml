@@ -35,21 +35,21 @@ categories:
   enable : true
   category:
     # category loop
-    - title : "Blueberry Budder Is Back!"
+    - title : "Budder"
       image : "images/products/bluebrybddr.png"
       offer : "Order Now"
       link : "budder"
       
     # category loop
-    - title : "Legendary Haze"
+    - title : "Our Award Winning Indica Shatter"
       image : "images/products/legendary-haze.png"
-      offer : "up to **30%** off"
+      offer : "Now **10%** off"
       link : "shatter"
       
     # category loop
-    - title : "Prepare to be violated"
-      image : "images/products/violator.png"
-      offer : "up to **49%** off"
+    - title : "DME Merch"
+      image : "images/products/merch.png"
+      offer : "**10%** off"
       link : "shatter"
 
 
@@ -65,8 +65,8 @@ newArrival:
 ############################## Deal ######################################
 deal:
   enable : true
-  subtitle : "Deal of the week 50% Off"
-  title : "Dab Rigs"
+  subtitle : "Deal of the week 10% Off"
+  title : "Merch"
   content : "Hurry up! Limited time offer.Grab it now!"
   
   # set timer

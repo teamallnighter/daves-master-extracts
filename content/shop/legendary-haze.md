@@ -19,7 +19,7 @@ price: "60.00"
 priceBefore: ""
 
 # categories
-strain : ["Indica"]
+strains : ["Indica"]
 
 # colors 
 categories : ["shatter"]
@@ -34,7 +34,7 @@ productWeight : "1G"
 dimensions : "10 x 10 x 15 cm"
 
 # materials
-materials : "60% cotton, 40% polyester"
+materials : "100% Legendary Kush"
 ---
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.

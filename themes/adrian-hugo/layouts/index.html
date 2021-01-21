@@ -36,7 +36,7 @@
       {{ range .category }}
       <div class="col-lg-4 col-sm-12 col-md-6">
         <div class="cat-item mb-4 mb-lg-0">
-          <img src="{{ .image | relURL }}" alt="category" class="img-fluid">
+          <img src="{{ .image | relURL }}" alt="category" class="img-fluid category-img">
           <div class="item-info">
             <p class="mb-0">{{ .title | markdownify }}</p>
             <h4 class="mb-4">{{ .offer | markdownify }}</h4>
