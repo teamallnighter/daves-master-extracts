@@ -7,7 +7,8 @@ draft: false
 description : "Here comes the bong"
 
 # page title background image
-bgImage : "images/backgrounds/header-bg.jpg"
+bgImage : "images/backgrounds/dme-header.svg"
+stamp: "images/stamps/dme-stamp-sativa.svg"
 
 # product Images
 # first image will be shown in the product page

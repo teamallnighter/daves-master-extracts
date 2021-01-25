@@ -7,8 +7,8 @@ draft: false
 description : "Prepare to be violated"
 
 # page title background image
-bgImage : "images/backgrounds/header-bg.jpg"
-
+bgImage : "images/backgrounds/dme-header.svg"
+stamp: "images/stamps/dme-stamp-indica.svg"
 # product Images
 # first image will be shown in the product page
 images:
