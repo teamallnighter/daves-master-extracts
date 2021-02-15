@@ -1,0 +1,46 @@
+---
+label: Shopt-Item
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: file
+  name: bgImage
+  label: bgImage
+- type: file
+  name: stamp
+  label: stamp
+- type: image_gallery
+  name: images
+  label: images
+- type: text
+  name: price
+  label: price
+- type: text
+  name: priceBefore
+  label: priceBefore
+- type: list
+  name: strains
+  label: strains
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: strength
+  label: strength
+- type: text
+  name: productWeight
+  label: productWeight
+- type: text
+  name: dimensions
+  label: dimensions
+- type: text
+  name: materials
+  label: materials
