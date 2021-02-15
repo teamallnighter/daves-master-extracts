@@ -10,7 +10,7 @@ price = "80"
 priceBefore = ""
 productWeight = ""
 stamp = "/uploads/dme-stamp-indica-0-5x.png"
-strains = ["Northern Lights", ""]
+strains = ["Indica"]
 strength = ["Night Night"]
 title = "Northern Lights"
 
