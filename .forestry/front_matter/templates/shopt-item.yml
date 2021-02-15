@@ -13,8 +13,10 @@ fields:
   name: description
   label: description
 - type: file
-  name: bgImage
-  label: bgImage
+  name: Header_Image
+  label: Header Image
+  description: The image that displays at the top of the page
+  default: "/uploads/dme-header.svg"
 - type: file
   name: stamp
   label: stamp
