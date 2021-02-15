@@ -1,0 +1,13 @@
+---
+label: Staff
+hide_body: true
+display_field: title
+fields:
+- type: text
+  name: name
+  label: name
+  - type: text
+  name: position
+  label: position
+  ---
+  
