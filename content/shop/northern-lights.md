@@ -11,7 +11,7 @@ priceBefore = ""
 productWeight = ""
 stamp = "/uploads/dme-stamp-indica-0-5x.png"
 strains = ["Northern Lights", ""]
-strength = []
+strength = ["Night Night"]
 title = "Northern Lights"
 
 +++
