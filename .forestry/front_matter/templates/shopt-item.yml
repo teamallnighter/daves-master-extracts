@@ -35,6 +35,8 @@ fields:
 - type: list
   name: strength
   label: strength
+  config:
+    use_select: false
 - type: text
   name: productWeight
   label: productWeight
