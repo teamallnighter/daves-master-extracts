@@ -29,9 +29,24 @@ fields:
 - type: list
   name: strains
   label: strains
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Indica
+    - 'Sativa '
+    - Hybrid
 - type: list
   name: categories
   label: categories
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Budder
+    - Shatter
 - type: list
   name: strength
   label: strength
