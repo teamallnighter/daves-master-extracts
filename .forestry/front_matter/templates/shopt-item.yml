@@ -36,7 +36,13 @@ fields:
   name: strength
   label: strength
   config:
-    use_select: false
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Night Night
+    - I Wanna Go Home!
+    - Make It Stop
 - type: text
   name: productWeight
   label: productWeight
