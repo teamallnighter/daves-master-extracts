@@ -77,4 +77,5 @@ fields:
   name: materials
   label: materials
 pages:
+- content/shop/chocolate-chunk.md
 - content/shop/northern-lights.md
