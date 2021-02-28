@@ -22,7 +22,7 @@ priceBefore: ""
 strains : ["Indica"]
 
 # colors 
-categories : ["shatter"]
+categories : ["budder"]
 
 # sizes
 madeBy : ["Dave"]
