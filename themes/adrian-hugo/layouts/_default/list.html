@@ -93,7 +93,7 @@
             {{- range $name, $items := .Site.Taxonomies.madeBy }}
             <li>
               <a class="cat-item d-lg-flex justify-content-between text-dark"
-                href="{{ `sizes/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | upper }}<span>{{len $items}}</span></a>
+                href="{{ `madeBy/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | upper }}<span>{{len $items}}</span></a>
             </li>
             {{- end }}
           </ul>
