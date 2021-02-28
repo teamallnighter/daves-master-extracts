@@ -13,10 +13,10 @@ stamp: "images/stamps/dme-stamp-sativa.svg"
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/products/bluebrybddr.png"
+  - "images/products/blank-shatter.png"
 
 # product Price
-price: "30"
+price: "30.00"
 priceBefore: ""
 
 # categories

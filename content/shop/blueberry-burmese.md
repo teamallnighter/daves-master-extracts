@@ -13,7 +13,7 @@ stamp: "images/stamps/dme-stamp-indica.svg"
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/products/legendary-haze.png"
+  - "images/products/blank-budder.png"
 
 # product Price
 price: "30.00"

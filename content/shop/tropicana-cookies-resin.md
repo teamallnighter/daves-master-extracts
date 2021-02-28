@@ -13,7 +13,7 @@ stamp: "images/stamps/dme-stamp-indica.svg"
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/products/legendary-haze.png"
+  - "images/products/blank-liveresin.png"
 
 # product Price
 price: "40.00"
@@ -35,7 +35,7 @@ productWeight : "1G"
 dimensions : "1G"
 
 # materials
-materials : "MAde up from...."
+materials : "Made up from...."
 ---
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.

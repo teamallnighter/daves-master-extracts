@@ -12,10 +12,10 @@ stamp: "images/stamps/dme-stamp-indica.svg"
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/products/violator.png"
+  - "images/products/blank-budder.png"
 
 # product Price
-price: "90.00"
+price: "30.00"
 priceBefore: ""
 
 # categories
