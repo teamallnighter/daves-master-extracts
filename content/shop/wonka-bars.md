@@ -23,7 +23,7 @@ priceBefore: ""
 strains : ["hybrid"]
 
 # colors 
-categories : ["Edibles"]
+categories : ["Eeibles"]
 
 # sizes
 madeBy : ["Dave"]
