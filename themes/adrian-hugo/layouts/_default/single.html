@@ -59,10 +59,10 @@
               {{ range $index, $element:= .Params.Strain }}{{ if eq $index 0 }}{{ . | title | humanize }}{{ else }}, {{ . | title | humanize }}{{ end }}{{ end }}
             </div>
             {{ end }}
-            {{ if .Params.Strength }}
+            {{ if .Params.madeBy }}
             <div class="product-category d-flex align-items-center">
-              <span class="font-weight-bold text-capitalize product-meta-title">Strength :</span>
-              {{ range $index, $element:= .Params.Strength }}{{ if eq $index 0 }}{{ . | title | humanize }}{{ else }}, {{ . | title | humanize }}{{ end }}{{ end }}
+              <span class="font-weight-bold text-capitalize product-meta-title">Made By :</span>
+              {{ range $index, $element:= .Params.madeBy }}{{ if eq $index 0 }}{{ . | title | humanize }}{{ else }}, {{ . | title | humanize }}{{ end }}{{ end }}
             </div>
             {{ end }}
             </div>

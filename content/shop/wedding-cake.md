@@ -16,7 +16,7 @@ images:
   - "images/products/wedding-cake.png"
 
 # product Price
-price: "75.00"
+price: "30.00"
 priceBefore: ""
 
 # categories
@@ -26,7 +26,7 @@ strains : ["hybrid"]
 categories : ["budder"]
 
 # sizes
-strength : ["Ok ok ok"]
+madeBy : ["Dave"]
 
 # weight
 productWeight : "1G"
