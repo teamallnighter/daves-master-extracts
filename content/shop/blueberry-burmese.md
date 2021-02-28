@@ -4,7 +4,7 @@ date: 2019-11-25T13:39:07+06:00
 draft: false
 
 # meta description
-description : "Amazing taste with blah blah blah"
+Summary : "Amazing taste with blah blah blah"
 
 # page title background image
 bgImage : "images/backgrounds/dme-header.svg"
