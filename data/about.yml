@@ -28,18 +28,18 @@ team:
   subtitle : "Dedicated team behind the scenes"
   teamMember:
     # team member loop
-    - name : "Jonathon Andrew"
-      image : "images/team/team-img-1.jpg"
-      designation : "Founder"
+    - name : "Dave Knielson"
+      image : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.buzzfeed.com%2Falivelez%2Fthe-office-starring-cute-dog&psig=AOvVaw3b864pi3205q6rqG-A_UaL&ust=1614631213085000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC1-5C4je8CFQAAAAAdAAAAABAI"
+      designation : "Like THE Dave.... yeah... let that sink in"
       
     # team member loop
-    - name : "Adipisci Velit"
-      image : "images/team/team-img-2.jpg"
-      designation : "Photographer"
+    - name : "Kenny Something"
+      image : "https://i.kym-cdn.com/entries/icons/mobile/000/032/913/shib.jpg"
+      designation : "Oh my god! They killed Kenny"
       
     # team member loop
     - name : "John Fexit"
-      image : "images/team/team-img-3.jpg"
+      image : "https://www.petfoodindustry.com/ext/resources/Images-by-month-year/17_01/Business-dog-computer.jpg?1570548397"
       designation : "Marketing Manager"
       
     # team member loop
@@ -52,6 +52,6 @@ team:
 instafeed:
   enable : true
   title : "Follow Us On Instagram"
-  username : "@ Cupidatat"
+  username : "@ daves_master_extracts"
   userID : "4044026246"
   accessToken : "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
