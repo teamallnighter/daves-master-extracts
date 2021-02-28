@@ -13,7 +13,7 @@ stamp: "images/stamps/dme-stamp-sativa.svg"
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/products/wedding-cake.png"
+  - "images/products/blank-edibles.png"
 
 # product Price
 price: "30.00"
