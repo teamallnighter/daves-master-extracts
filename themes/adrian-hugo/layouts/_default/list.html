@@ -86,11 +86,11 @@
           {{- end }}
         </section>
         <section class="widget widget-categories mb-5">
-          <h3 class="widget-title h4 mb-4">Sizes</h3>
-          {{- if isset .Site.Taxonomies "sizes" }}
-          {{- if not (eq (len .Site.Taxonomies.sizes) 0) }}
+          <h3 class="widget-title h4 mb-4">Made By</h3>
+          {{- if isset .Site.Taxonomies "madeBy" }}
+          {{- if not (eq (len .Site.Taxonomies.madeBy) 0) }}
           <ul class="list-unstyled">
-            {{- range $name, $items := .Site.Taxonomies.sizes }}
+            {{- range $name, $items := .Site.Taxonomies.madeBy }}
             <li>
               <a class="cat-item d-lg-flex justify-content-between text-dark"
                 href="{{ `sizes/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | upper }}<span>{{len $items}}</span></a>

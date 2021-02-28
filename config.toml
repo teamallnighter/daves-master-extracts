@@ -16,6 +16,7 @@ disqusShortname = "daves-master-extracts" #get your shortname form : disqus.com
   category = "categories"
   strain = "strains"
   strength = "strength"
+  madeBy = "madeBy"
   
 
 ############################# Plugins ##############################
