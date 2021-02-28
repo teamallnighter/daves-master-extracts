@@ -107,7 +107,7 @@ disqusShortname = "daves-master-extracts" #get your shortname form : disqus.com
 logo = "images/logos/logo.svg"
 home = "Home"
 # Meta data
-description = "This is meta description"
+description = "Dave's master extracts the highest quality in extracts in Canada."
 author = "chrisconnellydotdev"
 # snipcart public api key
 snipcartAPI = "NDVkMjE0Y2QtMmZlOC00NGY2LTkxYzAtZjkwMzk1NDg3NTkzNjM3NDY2OTI3OTA0NDIyMTQz"
