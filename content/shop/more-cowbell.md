@@ -1,41 +1,42 @@
 ---
-title: More CowBell
+title: (BHO) More Cowbell
 date: 2019-11-25T13:39:07+06:00
 draft: false
 
 # meta description
-description : "Amazing taste with blah blah blah"
+description : "Frankie got fingered"
 
 # page title background image
 bgImage : "images/backgrounds/dme-header.svg"
 stamp: "images/stamps/dme-stamp-indica.svg"
-
 # product Images
 # first image will be shown in the product page
 images:
   - "images/products/blank-budder.png"
 
 # product Price
-price: "30.00"
+price: "40.00"
 priceBefore: ""
 
 # categories
 strains : ["Indica"]
 
 # colors 
-categories : ["budder"]
+categories : ["Cart"]
 
 # sizes
-madeBy : ["Dave"]
+madeBy : ["Kenny"]
 
 # weight
-productWeight : "1G"
+productWeight : "1 G"
 
 # dimentions
-dimensions : "1G"
+dimensions : "10 x 10 x 15 cm"
 
 # materials
-materials : "MAde up from...."
+materials : "100% Violator Kush"
 ---
 
-About Dave. Blah blah blah blah
+Kenny:
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

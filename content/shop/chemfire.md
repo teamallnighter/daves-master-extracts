@@ -15,7 +15,7 @@ images:
   - "images/products/violator.png"
 
 # product Price
-price: "90.00"
+price: "40.00"
 priceBefore: ""
 
 # categories
