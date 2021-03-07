@@ -76,5 +76,3 @@ fields:
 - type: text
   name: materials
   label: materials
-pages:
-- content/shop/test.md
