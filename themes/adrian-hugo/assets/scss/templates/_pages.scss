@@ -1,11 +1,14 @@
 /// Feature section
-/// 
+///
+body{
+	background-color: $primary-color;
+} 
 
 .text-color{
 	color: $primary-color;
 }
 .feature{
-	background: $extra-color;
+	background: $primary-color;
 }
 .feature-item{
 	padding: 60px 30px 50px 30px;
