@@ -39,4 +39,5 @@ fields:
     maxSize: 64
   label: picture
 pages:
+- content/people/Kenny.md
 - content/people/dave-himself.md
