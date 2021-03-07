@@ -17,6 +17,18 @@ fields:
   label: Header Image
   description: The image that displays at the top of the page
   default: "/uploads/dme-header.svg"
+- name: made_by
+  type: select
+  default: []
+  config:
+    required: true
+    options: []
+    source:
+      type: pages
+      section: people
+      file: 
+      path: 
+  label: made by
 - type: file
   name: stamp
   label: stamp
@@ -76,15 +88,3 @@ fields:
 - type: text
   name: materials
   label: materials
-- name: made_by
-  type: select
-  default: []
-  config:
-    required: true
-    options: []
-    source:
-      type: pages
-      section: people
-      file: 
-      path: 
-  label: made by
