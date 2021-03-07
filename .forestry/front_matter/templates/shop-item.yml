@@ -76,3 +76,15 @@ fields:
 - type: text
   name: materials
   label: materials
+- name: made_by
+  type: select
+  default: []
+  config:
+    required: true
+    options: []
+    source:
+      type: pages
+      section: people
+      file: 
+      path: 
+  label: made by
