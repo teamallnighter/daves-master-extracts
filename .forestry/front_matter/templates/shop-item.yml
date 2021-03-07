@@ -88,3 +88,5 @@ fields:
 - type: text
   name: materials
   label: materials
+pages:
+- content/shop/Budder/gorilla-glue-4.md
